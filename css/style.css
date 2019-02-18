@@ -3,6 +3,11 @@ body {
     color: #635756;
 }
 
+main {
+    max-width: 1600px;
+    margin: auto;
+}
+
 .logo {
     position: absolute;
 }
@@ -64,11 +69,6 @@ a.nav-link {
 
 .card-footer {
     border-top: 0;
-}
-
-.mx-3 {
-    margin-left: 10rem!important;
-    margin-right: 10rem!important;
 }
 
 .triangle-pink {
